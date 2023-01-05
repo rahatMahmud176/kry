@@ -1,0 +1,11 @@
+@font-face {
+    font-family: solaimanlipi;
+    src: url(fonts/SolaimanLipi_22-02-2012.ttf);
+}
+
+
+
+.solaimanlipi{
+    font-family: solaimanlipi !important;
+}
+
